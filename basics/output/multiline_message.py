@@ -1,0 +1,11 @@
+# display message to the standard output
+print("System failure imminent!")
+print ("Ssytem reboot has been initiaed...")
+print()
+print()
+print("...rebooting sensory system")
+print("...rebooting output motors")
+print("...rebooting hover engine")
+print()
+print()
+print("system online.")
