@@ -1,6 +1,8 @@
 # display a box
+print ("Please nter a character for the eye")
+eye = input()
 print ("    ##########")
-print ("    # #    # #")
+print (f"    # {eye}{eye}     #")
 print ("    #        #")
 print ("    ##########")
 print("###################")
