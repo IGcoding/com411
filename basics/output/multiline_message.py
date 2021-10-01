@@ -1,6 +1,6 @@
 # display message to the standard output
 print("System failure imminent!")
-print ("Ssytem reboot has been initiaed...")
+print ("System reboot has been initiaed...")
 print()
 print()
 print("...rebooting sensory system")
