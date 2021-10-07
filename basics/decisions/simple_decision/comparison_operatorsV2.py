@@ -9,5 +9,5 @@ if input1 < input2:
     print("The first number is the smallest")
 elif input1 > input2:
     print ("The second number is the smallest")
-elif input1 == input2:
+else:
     print("Both are equal")
