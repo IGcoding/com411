@@ -1,0 +1,10 @@
+# allows users to input data
+print ("what type of book is this?")
+book = input ()
+print()
+print()
+print (f"I like {book} books!")
+print()
+print()
+print("Finished reading book.")
+print()
